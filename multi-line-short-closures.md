@@ -1,9 +1,9 @@
-  ====== PHP RFC: Your Title Here ======
-  * Version: 0.9
-  * Date: 2013-02-24 (use today's date here)
-  * Author: Your Name, your_email_address@example.com
-  * Status: Draft (or Under Discussion or Accepted or Declined)
-  * First Published at: http://wiki.php.net/rfc/your_rfc_name
+  ====== PHP RFC: Multi-line Short Closures ======
+  * Version: 0.1
+  * Date: 2020-11-XX <-- TODO
+  * Author: Nuno Maduro, enunomaduro@gmail.com
+  * Status: Draft
+  * First Published at: http://wiki.php.net/rfc/multi-line-short-closures
 
 This is a suggested template for PHP Request for Comments (RFCs). Change this template to suit your RFC.  Not all RFCs need to be tightly specified.  Not all RFCs need all the sections below.
 Read https://wiki.php.net/rfc/howto carefully!
